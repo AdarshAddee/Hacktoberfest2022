@@ -36,7 +36,7 @@ void solve() {
     int m; cin >> m;
     while (m -- ) {
         int l, r; cin >> l >> r;
-        cout << query(1, l, r) << "\n";
+        cout << query(1, l, r) << "\n"; 
     }
 }
 
